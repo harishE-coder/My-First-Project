@@ -1,0 +1,15 @@
+.choice-btn {
+            border: none;
+            background: none;
+            cursor: pointer;
+        }
+        .choice-btn img {
+            width: 100px;
+            height: 100px;
+            margin: 10px;
+            border-radius: 50%;
+            transition: transform 0.2s;
+        }
+        .choice-btn img:hover {
+            transform: scale(1.1);
+        }
